@@ -17,3 +17,4 @@ personalMoviesDB.movies[a] = b;
 personalMoviesDB.movies[c] = d;
 
 console.log(personalMoviesDB);
+
